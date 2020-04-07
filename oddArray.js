@@ -14,3 +14,5 @@ function oddArray(arr){
 }
 console.log(oddArray([0,1,2,3,4,5]));
 console.log(oddArray([1,3,5]));
+
+//baris baru
